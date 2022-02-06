@@ -1,0 +1,89 @@
+
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+h1{
+  font-size: 562.5%;
+  color: #535353;
+  margin-top: 50px;
+  font-family: 'Caveat', cursive;
+  margin-bottom: 0;
+}
+
+h2{
+  color: #009be2;
+} 
+
+h3{
+  color: #009be2;
+}
+
+.webdeveloper{
+  font-size: 22px;
+  font-weight: normal;
+  color: #009be2;
+  line-height: 4%;
+}
+
+hr{
+  width: 50%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.top-container{
+  background-color: #ffffff;
+}
+
+.web{
+  text-decoration: underline;
+}
+
+.computergif{
+  width: 25%;
+  height: 20%;
+  position: relative;
+  margin-right: 30px;
+}
+
+.title{
+  margin-bottom: 30px;
+}
+
+.job-rowdela{
+  margin-top: 50px;
+}
+
+.skillsacquired{
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.ealing{
+  margin-top: 50px;
+}
+
+
+.contact-me{
+  margin-bottom: 40px;
+}
+
+.footer-link{
+  color: #ffffff;
+  margin: 5px 10px;
+}
+
+.copyright{
+  margin-top: 15px;
+  font-size: 14px;
+  color: white;
+}
+
+.bottom-container{
+  background-color: #009be2;
+  padding: 25px 0 20px 0;
+}
