@@ -1,2 +1,3 @@
-# cv
-My CV
+My cv website
+
+https://kacperk20.github.io/cv/
